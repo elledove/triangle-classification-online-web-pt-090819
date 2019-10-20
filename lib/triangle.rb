@@ -17,7 +17,7 @@ class Triangle
       
       elsif (@length_2 == @length_3) || (@length_1 == @length_3) || @length_2 == @length_1
       :isosceles
-      elsif
+      elsif ()
       
     
   end
