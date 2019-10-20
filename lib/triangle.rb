@@ -22,6 +22,6 @@ class Triangle
       end
     end
   
-    class 
+    class TriangleError<
 end
    
